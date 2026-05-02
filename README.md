@@ -60,6 +60,10 @@ and sales channel efficiency to support data-driven business decisions.
 2. **Inventory Focus** — Prioritize Men's Street Footwear production and marketing
 3. **Regional Strategy** — Re-evaluate Midwest marketing to bridge the performance gap
 
+   ## 📂 Project Structure
+* [View Power BI File](AdidasProject.pbix): Download this file to explore the interactive dashboard.
+* [View Data Source](Adidas_US_Sales_Datasets.xlsx): The original dataset used for this analysis.
+
 ## 👤 Author
 
 **Youssef Amir**
@@ -71,4 +75,3 @@ and sales channel efficiency to support data-driven business decisions.
 
 ---
 
-## 📁 Repository Structure
