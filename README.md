@@ -1,4 +1,10 @@
-# 🏆 Adidas US Sales Analysis | Power BI Dashboard
+🏆 Adidas US Sales Analysis | Power BI Dashboard
+
+Screenshots:
+<img width="1418" height="797" alt="Screenshot 2026-05-02 195220" src="https://github.com/user-attachments/assets/e35f8812-5605-4318-8f9b-638f4d37fbe3" />
+<img width="1420" height="794" alt="Screenshot 2026-05-02 195139" src="https://github.com/user-attachments/assets/52376516-6827-4e64-a2cd-2f410d20d259" />
+<img width="1416" height="795" alt="Screenshot 2026-05-02 195127" src="https://github.com/user-attachments/assets/fe236d8f-44e2-4804-8893-e483b2b07453" />
+
 
 ## 📌 Project Overview
 
